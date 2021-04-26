@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Perritos famosos</title>
+  </head>
+  <body>
+
+  <h2>PERRITOS FAMOSOS</h2>
+  <ol>
+  <li>Ayudante de santa</li>
+  <li>Slinky</li>
+ 
+  </ol>
+  <p><head><b>Ayudante de santa</b></head></p>
+  <img class="center-block" src="../images/Ayudante%20de%20santa.jpeg" alt=""> 
+  
+  <p> <b>Santa's Little Helper</b>, (conocido como <i>Ayudante de Santa Claus</i> o <i>Botones de Santa Claus</i> en España y como Ayudante de Santa o simplemente Huesos en Hispanoamérica) es el perro de la familia Simpson en la serie animada Los Simpson. Es de raza galgo, concretamente un greyhound, y lo tienen tan mal atendido que a simple vista parece un animal de la calle. En el episodio The Springfield Files se menciona que su cumpleaños es el mismo día que el de Homer. El actor de voz que lo interpreta es Dan Castellaneta. </p>
+    
+     <p><head><b>slinky</b></head></p>
+      <img src="../images/Slinky.jpeg" width="600" height="468" alt="">
+    <p>Es un juguete medio perro y medio muelle. Slinky tiene cabeza, cuello y patas de perro y la unión a su otra parte es un muelle. Él es un perro simpático y sociable, por lo que, no tiene apenas enemigos. El mejor amigo de Slinky es Woody, aunque cuando el Sr. Patata acusó a Woody de lo que le hizo a Buzz y cree que le ha llegado hacer daño, se pone algo triste y desconfía un poco de Woody, pero en realidad siempre estuvo del lado de Woody, y tanto como Betty no cree que realmente Woody fuera un asesino. Por lo que cuando Andy regresa cuando va con su madre a Pizza Planeta a cenar y Andy dice que Woody no está en el auto, Slinky preocupa.</p>
+  
+ 
+  </body>
+  
+</html> 
